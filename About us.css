@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    h2{
+        color: navy;
+    
+    }
+    img{
+        max-width: 500%;
+        height: auto;
+    }
+    p{
+        color:blue;
+        background-color: lightgray;
+    }
+}
